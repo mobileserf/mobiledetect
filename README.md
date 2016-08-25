@@ -16,6 +16,11 @@ Copyrights (c) 2009-2016 apachemobilefilter.org, All Rights Reserved
 
 Original source = https://sourceforge.net/projects/mobilefilter/
 
+
 website - http://www.apachemobilefilter.org/
 
+Doc - http://wiki.apachemobilefilter.org/index.php/AMFLiteDetectionFilter
+
 test your device - http://litedetection.apachemobilefilter.org/
+
+
